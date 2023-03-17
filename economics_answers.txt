@@ -1,0 +1,12 @@
+economics_answers = [
+  "Command economy",
+  "Market economy",
+  "Rational self-interest",
+  "Law of diminishing returns",
+  "Law of supply and demand",
+  "Law of demand",
+  "Free market economy",
+  "Mixed economy",
+  "Planned economy",
+  "Law of supply"
+]
